@@ -1,0 +1,71 @@
+body {
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	padding-top: 70px;
+	font-size: 40px;
+}
+
+input[type=text], input[type=password] {
+	height: 35px;
+	width: 290px;
+	background-color: lightblue;
+	color: blue;
+	margin-left: 0px;
+}
+
+#check {
+	margin-left: 270px; 
+}
+
+input[type=submit] {
+	margin-left: 320px; 
+	margin-top: 20px;
+	font-size: 25px;
+	height: 50px;
+	width: 130px; 
+	color: white; 
+	background: lightblue; 
+	box-shadow: 4px 4px 8px black;
+	border: none; 
+	border-radius: 6px; 
+}
+
+#container{
+	height: 1080px;
+	width: 1920px;
+	background-image: url("obrazek1.png");
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#form1 {
+	height: 590px; 
+	width: 900px;
+	background-color: #21212150;
+	box-shadow: 0px 0px 10px black;
+	margin-right: auto;
+	margin-left: auto;
+	transform: translateY(20%);
+}
+
+#forgot {
+	color: white; 
+	margin-left: 50px;
+	margin-bottom: 90px;
+}
+
+#Zaloguj {
+	margin-left: 320px;
+	font-size: 20px;
+}
+
+#Email {
+	margin-left: 220px;
+}
+
+#Haslo {
+	margin-left: 225px;
